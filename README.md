@@ -21,3 +21,6 @@ NF_DATA.zip contains data collected from 9000 episodes utilized to create normal
 NF_model.zip contains normalizing flow models
 
 agents_hard.zip contains 5 different agents: SAC (true), SAC + MPSC (true), SAC (noise), SAC + MPSC (noise), SAC + MPSC + NF (true)
+
+## Google colab
+Google colab utilized for the developement of the project: https://colab.research.google.com/drive/16fQsgVxc6T2F11QZsxdvuIC24ZIo6IcK?usp=sharing

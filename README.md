@@ -14,13 +14,13 @@ CS_378_Final_report_Phase_1.pdf - Report for phase 1 of the project
 
 CS_378_Final_report_Phase_2.pdf - Report for phase 2 of the project
 
-CS_378_Final_Project.ipynb contains the jupyter notebook for phase 1 and phase 2 of the project.
+CS_378_Final_Project.ipynb - Jupyter notebook for phase 1 and phase 2 of the project.
 
-NF_DATA.zip contains data collected from 9000 episodes utilized to create normalizing flow models. Combined, easy, medium, and hard environment data files.
+NF_DATA.zip - data collected from 9000 episodes utilized to create normalizing flow models. Combined, easy, medium, and hard environment data files.
 
-NF_model.zip contains normalizing flow models
+NF_model.zip - normalizing flow models
 
-agents_hard.zip contains 5 different agents: SAC (true), SAC + MPSC (true), SAC (noise), SAC + MPSC (noise), SAC + MPSC + NF (true)
+agents_hard.zip - 5 different agents: SAC (true), SAC + MPSC (true), SAC (noise), SAC + MPSC (noise), SAC + MPSC + NF (true)
 
 ## Google colab
 Google colab utilized for the developement of the project: https://colab.research.google.com/drive/16fQsgVxc6T2F11QZsxdvuIC24ZIo6IcK?usp=sharing

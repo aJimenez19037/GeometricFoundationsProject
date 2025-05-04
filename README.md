@@ -22,5 +22,8 @@ NF_model.zip - normalizing flow models
 
 agents_hard.zip - 5 different agents: SAC (true), SAC + MPSC (true), SAC (noise), SAC + MPSC (noise), SAC + MPSC + NF (true)
 
+--------------------------------------------
+*** Pickle files contained in the .zip can be utilized to load in the data or models saving time in not having to recreate the data and agents. 
+
 ## Google colab
 Google colab utilized for the developement of the project: https://colab.research.google.com/drive/16fQsgVxc6T2F11QZsxdvuIC24ZIo6IcK?usp=sharing
